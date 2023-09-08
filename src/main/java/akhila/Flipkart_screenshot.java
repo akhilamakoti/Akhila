@@ -23,6 +23,7 @@ public class Flipkart_screenshot {
 		 File src=ab.getScreenshotAs(OutputType.FILE);
 		 File dest=new File("C:\\Users\\Rakesh\\OneDrive\\Desktop\\screenshots\\ltmetrologo.png");
 		 Files.copy(src, dest);
+		//naresh good boy
 	}
 	}
 //img[@class='img-responsive sticky_logo']

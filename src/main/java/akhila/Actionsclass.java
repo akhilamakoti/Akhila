@@ -18,7 +18,7 @@ public class Actionsclass {
 		 //act.moveToElement(ele).perform();
 		 //act.moveToElement(ele).contextClick().perform();
          act.moveToElement(ele).doubleClick().perform();
-         
+         //vikram very bad boy waste fellow
 	}
 
 }
